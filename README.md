@@ -36,4 +36,4 @@ Receiving data from the program is as easy as having the calling client process 
 Any programming language which can create a TCP connection through sockets can be used to communicate with this microservice.
 
 The UML sequence diagram for this microservice:
-!(/Microservice UML.png)
+!(https://github.com/jacobsmith95/CS361-Microservice/blob/main/Microservice%20UML.PNG)

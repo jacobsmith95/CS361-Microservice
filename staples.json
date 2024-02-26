@@ -1,0 +1,221 @@
+{
+    "Colors": [
+    {
+        "color": "Colorless",
+        "staples": ["Lightning Greaves",
+                    "Swiftfoot Boots",
+                    "Sol Ring",
+                    "Solemn Simulacrum",
+                    "Commander's Plate"]
+    },
+
+    {
+        "color": "White",
+        "staples": ["Esper Sentinel",
+                    "Smothering Tithe",
+                    "Path to Exile",
+                    "Swords to Plowshares",
+                    "Teferi's Protection"]
+    },
+
+    {
+        "color": "Blue",
+        "staples": ["Counterspell",
+                    "Brainstorm",
+                    "Cyclonic Rift",
+                    "Rhystic Study",
+                    "Arcane Denial"]
+    },
+
+    {
+        "color": "Black",
+        "staples": ["Dark Ritual",
+                    "Gray Merchant of Asphodel",
+                    "Night's Whisper",
+                    "Reanimate",
+                    "Feed the Swarm"]
+    },
+
+    {
+        "color": "Red",
+        "staples": ["Chaos Warp",
+                    "Blasphemous Act",
+                    "Faithless Looting",
+                    "Jeska's Will",
+                    "Lightning Bolt"]
+    },
+
+    {
+        "color": "Green",
+        "staples": ["Beast Within",
+                    "Cultivate",
+                    "Heroic Intervention",
+                    "Beast Whisperer",
+                    "Birds of Paradise"]
+    },
+
+    {
+        "color": ["White", "Blue"],
+        "staples": ["Dovin's Veto",
+                    "Supreme Verdict",
+                    "Azorius Signet"]
+    },
+
+    {
+        "color": ["Blue", "Black"],
+        "staples": ["Baleful Strix",
+                    "Dimir Signet",
+                    "Drown in the Loch"]
+    },
+
+    {
+        "color": ["Black", "Red"],
+        "staples": ["Terminate",
+                    "Rakdos Charm",
+                    "Rakdos Signet"]
+    },
+
+    {
+        "color": ["Red", "Green"],
+        "staples": ["Goblin Anarchomancer",
+                    "Decimate",
+                    "Rhythm of the Wild"]
+    },
+
+    {
+        "color": ["Green", "White"],
+        "staples": ["Cosmic Rebirth",
+                    "Dromoka's Command",
+                    "Mirari's Wake"]
+    },
+
+    {
+        "color": ["White", "Black"],
+        "staples": ["Anguished Unmaking",
+                    "Despark",
+                    "Lotho, Corrupt Shirriff"]
+    },
+
+    {
+        "color": ["Blue", "Red"],
+        "staples": ["Goblin Electromancer",
+                    "Expressive Iteration",
+                    "Izzet Signet"]
+    },
+
+    {
+        "color": ["Black", "Green"],
+        "staples": ["Assassin's Trophy",
+                    "Golgari Charm",
+                    "Rise of the Witch-King"]
+    },
+
+    {
+        "color": ["Red", "White"],
+        "staples": ["Boros Charm",
+                    "Boros Signet",
+                    "Deflecting Palm"]
+    },
+
+    {
+        "color": ["Green", "Blue"],
+        "staples": ["Coiling Oracle",
+                    "Growth Spiral",
+                    "Tatyova, Benthic Druid"]
+    },
+
+    {
+        "color": ["White", "Blue", "Black"],
+        "staples": ["Dromar's Charm",
+                    "Void Rend"]
+    },
+
+    {
+        "color": ["Blue", "Black", "Red"],
+        "staples": ["Crosis's Charm",
+                    "Maestros Charm"]
+    },
+
+    {
+        "color": ["Black", "Red", "Green"],
+        "staples": ["Darigaaz's Charm",
+                    "Unleash the Inferno"]
+    },
+
+    {
+        "color": ["Red", "Green", "White"],
+        "staples": ["Naya Charm",
+                    "Titanic Ultimatum"]
+    },
+
+    {
+        "color": ["Green", "White", "Blue"],
+        "staples": ["Bant Charm",
+                    "Chulane, Teller of Tales"]
+    },
+
+    {
+        "color": ["White", "Black", "Green"],
+        "staples": ["Abzan Charm",
+                    "Eerie Ultimatum"]
+    },
+
+    {
+        "color": ["Blue", "Red", "White"],
+        "staples": ["Inspired Ultimatum",
+                    "Whirlwind of Thought"]
+    },
+
+    {
+        "color": ["Black", "Green", "Blue"],
+        "staples": ["Emergent Ultimatum",
+                    "Sultai Charm"]
+    },
+
+    {
+        "color": ["Red", "White", "Black"],
+        "staples": ["Crackling Doom",
+                    "Ruinous Ultimatum"]
+    },
+
+    {
+        "color": ["Green", "Blue", "Red"],
+        "staples": ["Genesis Ultimatum",
+                    "Temur Charm"]
+    },
+
+    {
+        "color": ["White", "Blue", "Black", "Red"],
+        "staples": ["Empty"]
+    },
+    
+    {
+        "color": ["Blue", "Black", "Red", "Green"],
+        "staples": ["Empty"]
+    },
+    
+    {
+        "color": ["White", "Blue", "Black", "Green"],
+        "staples": ["Empty"]
+    },
+
+    {
+        "color": ["White", "Blue", "Red", "Green"],
+        "staples": ["Empty"]
+    },
+    
+    {
+        "color": ["White", "Black", "Red", "Green"],
+        "staples": ["Empty"]
+    },
+
+    {
+        "color": ["White", "Blue", "Black", "Red", "Green"],
+        "staples": ["The Kami War",
+                    "Two-Headed Hellkite",
+                    "Unite the Coalition"]
+    }
+
+
+
+]}

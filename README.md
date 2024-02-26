@@ -2,6 +2,8 @@
 
 Welcome to the ReadMe for the CS361 Staple Card Microservice!
 
+This microservice runs on Python 3 and does not utilize any modules which are not native to a base Python 3 distribution. Nothing needs to be downloaded besides Python 3 is needed to run this program.
+
 This microservice creates a continuous server listening for TCP connections from client programs on the localhost IP address, 127.0.0.1, and port 54345. The port number is so high in order to avoid doubling ports with another process.
 
 This microservice receives a string of letters from the set “cwubrg”, with spaces between each letter, from the client process. The form being: “letter space letter space… etc”. One example would be “c w u”, another is “u b r”.

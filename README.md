@@ -38,3 +38,5 @@ Any programming language which can create a TCP connection through sockets can b
 The UML sequence diagram for this microservice:
 
 ![UML sequence diagram](https://github.com/jacobsmith95/CS361-Microservice/blob/main/Microservice%20UML.PNG)
+
+Included in this repository is a simple TCP client for testing the microservice's functionality, as well as the JSON file that the microservice pulls its staple cards from when operating.
